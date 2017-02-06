@@ -11,4 +11,4 @@ Developed a calculator program using MIPS assembly language to support specializ
   
 ## Built with:
 * Logism
-* Mars
+* MIPS Assembler and Runtime Simulator (MARS) frontend IDE
